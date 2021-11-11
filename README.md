@@ -29,6 +29,9 @@ npm i
 
 type node index in your terminal and follow the questions til completion.
 
+## Walkthrough Video
+https://youtu.be/EN3g8V5mB1I
+
 ## License
 
 This project is licensed under the MIT License license.
